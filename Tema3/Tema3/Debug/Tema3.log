@@ -1,0 +1,12 @@
+﻿  Cabrio.cpp
+  Coupe.cpp
+  Expozitie.cpp
+  ExpozitieSport.cpp
+G:\Facultate\POO\Proiect3\Tema4\Tema3\Tema3\ExpozitieSport.cpp(64,16): warning C4101: 'x': unreferenced local variable
+G:\Facultate\POO\Proiect3\Tema4\Tema3\Tema3\ExpozitieSport.cpp(84,16): warning C4101: 'x': unreferenced local variable
+  Hatch.cpp
+  Masina.cpp
+  Sport.cpp
+  Tema3.cpp
+  Generating Code...
+  Tema3.vcxproj -> G:\Facultate\POO\Proiect3\Tema4\Tema3\Debug\Tema3.exe
